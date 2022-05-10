@@ -4,7 +4,7 @@ import './App.css';
 function HeaderImage() {
   return (
     <div>
-      <img src={logo} width="200" />
+      <img src={logo} width="100" />
     </div>
   )
 }
