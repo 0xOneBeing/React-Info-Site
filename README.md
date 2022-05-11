@@ -1,7 +1,3 @@
-# React info Site
+# React Info Site
 
 A Bob Ziroll led React project
-
-## Available on Surge.sh
-
-
